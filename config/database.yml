@@ -1,0 +1,29 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: railsdb
+  pool: 5
+  username: user1
+  password: 5861.iyr
+  host: localhost
+  port: 5432
+
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: railsdb
+  pool: 5
+  username: user1
+  password: 5861.iyr
+  host: localhost
+  port: 5432
+
+production:
+  adapter: postgresql
+  encoding: utf8
+  database: railsdb
+  pool: 5
+  username: user1
+  password: 5861.iyr
+  host: localhost
+  port: 5432
